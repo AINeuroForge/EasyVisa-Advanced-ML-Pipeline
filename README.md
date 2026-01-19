@@ -88,7 +88,12 @@ This approach ensures the model’s outputs remain **actionable**, not just stat
 - Temporal validation across filing years  
 - Fairness and bias audits across demographic and employer segments  
 - Packaging as an internal screening or advisory tool  
-- Integration with policy-aware RAG systems for contextual guidance  
+- Integration with policy-aware RAG systems for contextual guidance
+
+---
+
+## View Modeling
+[![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb)
 
 ---
 
