@@ -93,7 +93,7 @@ This approach ensures the model’s outputs remain **actionable**, not just stat
 ---
 
 ## View Modeling
-[![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb)
+[![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/AINeuroForge/EasyVisa-Advanced-ML-Pipeline/blob/main/notebooks/EasyVisa_Chris_Gonzalez.ipynb)
 
 ---
 
